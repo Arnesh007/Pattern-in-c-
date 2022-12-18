@@ -1,4 +1,4 @@
-/*# Pattern-in-c++
+ Pattern-in-c++
 
 QUESTION:
 Write a program to print the following pattern.
@@ -17,22 +17,9 @@ ABCDE
 
    AB
 
-    A        */
+    A      
     
 ANSWER:
-
-
-
-
-
-
-
-
-
-
-
-
-
 #include<iostream>
 using namespace std;
 int main()
